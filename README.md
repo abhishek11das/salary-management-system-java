@@ -35,8 +35,7 @@ The application provides a desktop GUI built in Java to interact with employee d
 
 ## 🛠 Installation and Setup
 
-### 1. Clone the Repository
-
+### Clone the Repository
 ```bash
 git clone (https://github.com/abhishek11das/salary-management-system-java.git)
 
