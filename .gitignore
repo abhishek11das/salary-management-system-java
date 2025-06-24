@@ -1,0 +1,17 @@
+# Ignore build output
+/build/
+*.class
+
+# Allow .jar in lib/ but ignore elsewhere
+*.jar
+!lib/*.jar
+
+# Ignore IDE/project files
+.idea/
+nbproject/
+*.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
